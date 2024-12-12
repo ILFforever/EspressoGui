@@ -1,9 +1,6 @@
 # EspressoGui
 A modern GUI-based wrapper for the [**Espresso logic minimizer**](https://github.com/Gigantua/Espresso). EspressoGui makes it easier to work with the powerful logic minimization algorithms developed at the **University of California, Berkeley**, by providing an intuitive graphical interface.
 
-![alt text](https://github.com/ILFforever/EspressoGui/blob/main/image/input.png "Input-Page")
-![alt text](https://github.com/ILFforever/EspressoGui/blob/main/image/output.png "Output-Page")
-
 ## Features
 - **Modern GUI:** Simplifies interaction with Espresso by providing a user-friendly graphical interface.
 
@@ -31,8 +28,13 @@ A modern GUI-based wrapper for the [**Espresso logic minimizer**](https://github
 - Boolean expressions
 
 ### Screenshots
-_Add screenshots here to showcase the GUI interface and workflow._
 
+![alt text](https://github.com/ILFforever/EspressoGui/blob/main/image/input.png "Input-Page")
+
+![alt text](https://github.com/ILFforever/EspressoGui/blob/main/image/output.png "Output-Page")
+
+## Background 
+This project was created in order to help with learning Digital Logic simplification for Chulalongkorn University Computer Programming curriculum 📖💻
 
 ## License
 
